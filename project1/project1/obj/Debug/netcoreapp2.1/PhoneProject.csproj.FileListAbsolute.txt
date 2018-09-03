@@ -1,0 +1,8 @@
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/PhoneProject.deps.json
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/PhoneProject.dll
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/PhoneProject.pdb
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/PhoneProject.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/PhoneProject.AssemblyInfoInputs.cache
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/PhoneProject.AssemblyInfo.cs
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/PhoneProject.dll
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/PhoneProject.pdb

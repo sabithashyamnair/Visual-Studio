@@ -1,0 +1,10 @@
+/Users/sabithamb/Projects/project1/CalculatorProject/bin/Debug/netcoreapp2.1/CalculatorProject.deps.json
+/Users/sabithamb/Projects/project1/CalculatorProject/bin/Debug/netcoreapp2.1/CalculatorProject.runtimeconfig.json
+/Users/sabithamb/Projects/project1/CalculatorProject/bin/Debug/netcoreapp2.1/CalculatorProject.runtimeconfig.dev.json
+/Users/sabithamb/Projects/project1/CalculatorProject/bin/Debug/netcoreapp2.1/CalculatorProject.dll
+/Users/sabithamb/Projects/project1/CalculatorProject/bin/Debug/netcoreapp2.1/CalculatorProject.pdb
+/Users/sabithamb/Projects/project1/CalculatorProject/obj/Debug/netcoreapp2.1/CalculatorProject.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/project1/CalculatorProject/obj/Debug/netcoreapp2.1/CalculatorProject.AssemblyInfoInputs.cache
+/Users/sabithamb/Projects/project1/CalculatorProject/obj/Debug/netcoreapp2.1/CalculatorProject.AssemblyInfo.cs
+/Users/sabithamb/Projects/project1/CalculatorProject/obj/Debug/netcoreapp2.1/CalculatorProject.dll
+/Users/sabithamb/Projects/project1/CalculatorProject/obj/Debug/netcoreapp2.1/CalculatorProject.pdb

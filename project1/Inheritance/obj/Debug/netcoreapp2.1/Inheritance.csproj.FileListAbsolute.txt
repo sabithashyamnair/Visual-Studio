@@ -1,0 +1,11 @@
+/Users/sabithamb/Projects/project1/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.deps.json
+/Users/sabithamb/Projects/project1/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.dll
+/Users/sabithamb/Projects/project1/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.pdb
+/Users/sabithamb/Projects/project1/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/project1/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.AssemblyInfoInputs.cache
+/Users/sabithamb/Projects/project1/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.AssemblyInfo.cs
+/Users/sabithamb/Projects/project1/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.dll
+/Users/sabithamb/Projects/project1/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.pdb
+/Users/sabithamb/Projects/project1/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.csprojResolveAssemblyReference.cache
+/Users/sabithamb/Projects/project1/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.runtimeconfig.json
+/Users/sabithamb/Projects/project1/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.runtimeconfig.dev.json

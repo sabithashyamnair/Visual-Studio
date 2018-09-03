@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="3.14.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="2.41.0" />
+    <PackageReference Include="Reinstallpackage" Version="1.0.0" />
+    <PackageReference Include="Selenium.Support" Version="3.14.0" />
+    <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.21.0" />
+    <PackageReference Include="MyPackage.Firefox" Version="1.0.0" />
+    <PackageReference Include="Selenium.WebDriver.GeckoDriver" Version="0.21.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="chromedriver" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="AdactinHotel.cs" />
+    <Compile Remove="SelectElement.cs" />
+    <Compile Remove="FireFox.cs" />
+  </ItemGroup>
+</Project>

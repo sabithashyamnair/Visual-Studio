@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator.cs">
+    <Files>
+      <File FileName="Phone.cs" Line="92" Column="1" />
+      <File FileName="Square.cs" Line="19" Column="10" />
+      <File FileName="Student.cs" Line="1" Column="1" />
+      <File FileName="Headphone.cs" Line="1" Column="1" />
+      <File FileName="Grade.cs" Line="1" Column="1" />
+      <File FileName="DaysofWeek.cs" Line="1" Column="1" />
+      <File FileName="Chair.cs" Line="1" Column="1" />
+      <File FileName="Car.cs" Line="1" Column="1" />
+      <File FileName="Calendar.cs" Line="1" Column="1" />
+      <File FileName="Calculator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

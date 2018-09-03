@@ -1,0 +1,10 @@
+/Users/sabithamb/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.deps.json
+/Users/sabithamb/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.runtimeconfig.json
+/Users/sabithamb/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.runtimeconfig.dev.json
+/Users/sabithamb/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.dll
+/Users/sabithamb/Projects/Automation/Automation/bin/Debug/netcoreapp2.1/Automation.pdb
+/Users/sabithamb/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.AssemblyInfoInputs.cache
+/Users/sabithamb/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.AssemblyInfo.cs
+/Users/sabithamb/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.dll
+/Users/sabithamb/Projects/Automation/Automation/obj/Debug/netcoreapp2.1/Automation.pdb

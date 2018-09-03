@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BE752B43-D91D-4ABE-AE1C-4096453B9A8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="project1/Phone.cs">
+    <Files>
+      <File FileName="project1/Phone.cs" Line="49" Column="34" />
+      <File FileName="Chair/Chair.cs" Line="7" Column="22" />
+      <File FileName="project1/Chair.cs" Line="9" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/Tests1.dll
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/Tests1.pdb
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/nunit.framework.dll
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/WebDriver.dll
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/WebDriver.Support.dll
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/nunit.framework.pdb
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/nunit.framework.xml
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/WebDriver.xml
+/Users/sabithamb/Projects/PageObjectModel/Tests1/bin/Debug/WebDriver.Support.xml
+/Users/sabithamb/Projects/PageObjectModel/Tests1/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/Users/sabithamb/Projects/PageObjectModel/Tests1/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/PageObjectModel/Tests1/obj/Debug/Tests1.dll
+/Users/sabithamb/Projects/PageObjectModel/Tests1/obj/Debug/Tests1.pdb

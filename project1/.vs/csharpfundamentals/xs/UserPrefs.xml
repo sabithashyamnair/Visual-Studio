@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{0EAE51F8-2C0E-4E53-B1E9-7C033E96C8DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Wild.cs">
+    <Files>
+      <File FileName="project1/Phone.cs" Line="94" Column="13" />
+      <File FileName="project1/Chair.cs" Line="12" Column="33" />
+      <File FileName="project1/Headphone.cs" Line="20" Column="54" />
+      <File FileName="project1/Student.cs" Line="9" Column="16" />
+      <File FileName="project1/Car.cs" Line="19" Column="65" />
+      <File FileName="project1/Square.cs" Line="10" Column="28" />
+      <File FileName="project1/Calculator.cs" Line="56" Column="14" />
+      <File FileName="project1/Calendar.cs" Line="39" Column="1" />
+      <File FileName="project1/DaysofWeek.cs" Line="51" Column="1" />
+      <File FileName="project1/Grade.cs" Line="18" Column="37" />
+      <File FileName="Inheritance/Program.cs" Line="34" Column="13" />
+      <File FileName="Inheritance/Animal.cs" Line="4" Column="5" />
+      <File FileName="Inheritance/Herbivorous.cs" Line="6" Column="8" />
+      <File FileName="Inheritance/Carnivorous.cs" Line="14" Column="1" />
+      <File FileName="Inheritance/Square1.cs" Line="7" Column="24" />
+      <File FileName="Inheritance/Rhombus.cs" Line="4" Column="35" />
+      <File FileName="Inheritance/Phone.cs" Line="10" Column="33" />
+      <File FileName="Inheritance/Mobile.cs" Line="8" Column="10" />
+      <File FileName="Inheritance/Walkie.cs" Line="8" Column="33" />
+      <File FileName="Inheritance/Landline.cs" Line="10" Column="81" />
+      <File FileName="Inheritance/Deer.cs" Line="17" Column="2" />
+      <File FileName="Inheritance/Wild.cs" Line="7" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="csharpfundamentals" expanded="True" selected="True">
+            <Node name="Inheritance" expanded="True" />
+            <Node name="PhoneProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PhoneProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/sabithamb/Projects/project1/CarProject/bin/Debug/netcoreapp2.1/CarProject.deps.json
+/Users/sabithamb/Projects/project1/CarProject/bin/Debug/netcoreapp2.1/CarProject.runtimeconfig.json
+/Users/sabithamb/Projects/project1/CarProject/bin/Debug/netcoreapp2.1/CarProject.runtimeconfig.dev.json
+/Users/sabithamb/Projects/project1/CarProject/bin/Debug/netcoreapp2.1/CarProject.dll
+/Users/sabithamb/Projects/project1/CarProject/bin/Debug/netcoreapp2.1/CarProject.pdb
+/Users/sabithamb/Projects/project1/CarProject/obj/Debug/netcoreapp2.1/CarProject.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/project1/CarProject/obj/Debug/netcoreapp2.1/CarProject.AssemblyInfoInputs.cache
+/Users/sabithamb/Projects/project1/CarProject/obj/Debug/netcoreapp2.1/CarProject.AssemblyInfo.cs
+/Users/sabithamb/Projects/project1/CarProject/obj/Debug/netcoreapp2.1/CarProject.dll
+/Users/sabithamb/Projects/project1/CarProject/obj/Debug/netcoreapp2.1/CarProject.pdb

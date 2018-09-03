@@ -1,0 +1,10 @@
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/project1.csproj.CoreCompileInputs.cache
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/project1.AssemblyInfoInputs.cache
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/project1.AssemblyInfo.cs
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/project1.deps.json
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/project1.runtimeconfig.json
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/project1.runtimeconfig.dev.json
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/project1.dll
+/Users/sabithamb/Projects/project1/project1/bin/Debug/netcoreapp2.1/project1.pdb
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/project1.dll
+/Users/sabithamb/Projects/project1/project1/obj/Debug/netcoreapp2.1/project1.pdb
